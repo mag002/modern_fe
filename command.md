@@ -10,6 +10,15 @@ conflict: conflict of the file when 2 diffent branches change the same row
 git status: to show status of current git
 
 
+-------
+Research commands:
+- stash
+- cherry-pick
+- reset
+
+
+
+
 [BE]
 Code 500 dong
 Code them 300 dong
